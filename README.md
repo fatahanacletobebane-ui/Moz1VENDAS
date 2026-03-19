@@ -1,2 +1,2 @@
-# Moz1VENDAS
+# MOZ1VENDAS
 Venda de produtos e serviços 
