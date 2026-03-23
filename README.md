@@ -16,8 +16,7 @@ Bem-vindo ao repositório oficial da **MOZ.1VENDAS**. Somos especialistas em col
 
 ## 🌐 Link de Demonstração
 Visualize o nosso site oficial em funcionamento aqui:
-👉 **[CLIQUE PARA VER O SITE](https://seu-usuario.github.io/moz1vendas/)** *(Substitua o link acima pelo seu link real do GitHub Pages)*
-
+👉 **[CLIQUE PARA VER O SITE]([https://seu-usuario.github.io/moz1vendas/](https://fatahanacletobebane-ui.github.io/Moz1VENDAS/))** 
 ## 📞 Contacto Direto
 Estamos prontos para transformar a sua ideia em realidade.
 * **Telefone:** +258 86 040 7269
